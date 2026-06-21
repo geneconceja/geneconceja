@@ -4,6 +4,7 @@ Software developer working across web and backend systems.
 
 - 💻 **Languages:** PHP, JavaScript, C#, Python
 - 🛠️ **Tech:** Laravel, Node.js, Next.js, React
+- ⚡ **Interests:** Web & Mobile Development, Data Science & Analysis, AI & ML
 - 🔗 **Links:** [LinkedIn](https://linkedin.com/in/cncjgene) · [Portfolio](https://geneconceja.is-a.dev)
 
 Feel free to reach out!
