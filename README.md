@@ -6,8 +6,6 @@ Software developer working across web and backend systems.
 - 🛠️ **Tech:** Laravel, Node.js, Next.js, React
 - 🔗 **Links:** [LinkedIn](https://linkedin.com/in/cncjgene) · [Portfolio](https://geneconceja.is-a.dev)
 
-Feel free to connect or check out my pinned repos below!
-
 ---
 
 <picture>
